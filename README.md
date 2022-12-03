@@ -2,10 +2,11 @@
 
 A theme for Obsidian based on Atom's One Dark and One Light themes.
 
-![Screenshot](screenshot-hybrid.png)
+![Screenshot](Screenshot.png)
 
 ## Installation
 
-1. Download obsidian.css to your Obsidian vault folder
-2. In Obsidian, click Settings -> Plugins make sure `Custom CSS` is enabled
-3. Pick either light or dark theme in Obsidian's appearance settings!
+1. Download last Version from release
+2. Import One dark folder inside .obsidia/themes 
+3. In Obsidian, click Settings -> Plugins make sure `Custom CSS` is enabled 
+4. Pick either light or dark theme in Obsidian's appearance settings!
