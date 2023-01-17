@@ -1,4 +1,4 @@
-# Obsidian Atom
+# Obsidian Atom with colorful titles
 
 A theme for Obsidian based on Atom's One Dark and One Light themes.
 
