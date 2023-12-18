@@ -25,7 +25,7 @@
   --text-on-accent: #dcddde;
   --interactive-normal: #20242b;
   --interactive-hover: #353b47;
-  --interactive-accent: #98c379; /*Before #4c78cc Blue*/
+--interactive-accent: #98c379; /*Before #4c78cc Blue*/
   --interactive-accent-rgb: 76, 120, 204;
   --interactive-accent-hover: #5082df;
   --scrollbar-active-thumb-bg: rgba(255, 255, 255, 0.2);

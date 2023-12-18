@@ -1,6 +1,7 @@
 {
-    "name": "Atom One Dark",
+    "name": "Atom One Dark theme",
     "version": "0.0.0",
-    "minAppVersion": "1.0.0",
-    "author": "Gorlix"
+    "minAppVersion": "0.0.0",
+    "author": "Gorlix",
+    "authorUrl": "https://github.com/gorlix"
 }
